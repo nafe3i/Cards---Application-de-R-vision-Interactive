@@ -1,0 +1,172 @@
+[
+  {
+    "id": "q1",
+    "collectionId": "html-basics",
+    "title": "Quiz HTML - Niveau 1",
+    "questions": [
+      {
+        "id": "q1-1",
+        "type": "text",
+        "question": "Que signifie HTML ?",
+        "acceptedAnswers": ["Hyper Text Markup Language", "Hypertext Markup Language"]
+      },
+      {
+        "id": "q1-2",
+        "type": "true_false",
+        "question": "La balise <div> est sémantique.",
+        "correct": false
+      },
+      {
+        "id": "q1-3",
+        "type": "multiple_choice",
+        "question": "Laquelle de ces balises définit le titre principal ?",
+        "options": ["<head>", "<h1>", "<title>", "<header>"],
+        "correct": "<h1>"
+      },
+      {
+        "id": "q1-4",
+        "type": "text",
+        "question": "Quelle balise est utilisée pour insérer une image ?",
+        "acceptedAnswers": ["<img>", "img"]
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "collectionId": "css-basics",
+    "title": "Quiz CSS - Niveau 1",
+    "questions": [
+      {
+        "id": "q2-1",
+        "type": "text",
+        "question": "Que signifie CSS ?",
+        "acceptedAnswers": ["Cascading Style Sheets"]
+      },
+      {
+        "id": "q2-2",
+        "type": "multiple_choice",
+        "question": "Quelle propriété permet de changer la couleur du texte ?",
+        "options": ["color", "background-color", "text-color", "font-color"],
+        "correct": "color"
+      },
+      {
+        "id": "q2-3",
+        "type": "true_false",
+        "question": "La propriété 'margin' ajoute de l’espace à l’intérieur d’un élément.",
+        "correct": false
+      },
+      {
+        "id": "q2-4",
+        "type": "text",
+        "question": "Quelle unité est relative à la taille de la police du parent ?",
+        "acceptedAnswers": ["em"]
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "collectionId": "js-basics",
+    "title": "Quiz JavaScript - Niveau 1",
+    "questions": [
+      {
+        "id": "q3-1",
+        "type": "text",
+        "question": "Que signifie JS ?",
+        "acceptedAnswers": ["JavaScript"]
+      },
+      {
+        "id": "q3-2",
+        "type": "true_false",
+        "question": "JavaScript est un langage compilé.",
+        "correct": false
+      },
+      {
+        "id": "q3-3",
+        "type": "multiple_choice",
+        "question": "Quelle méthode permet d’afficher un message dans la console ?",
+        "options": ["print()", "alert()", "console.log()", "log.console()"],
+        "correct": "console.log()"
+      },
+      {
+        "id": "q3-4",
+        "type": "multiple_choice",
+        "question": "Quelle est la sortie de : typeof [] ?",
+        "options": ["object", "array", "list", "undefined"],
+        "correct": "object"
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "collectionId": "react-basics",
+    "title": "Quiz React - Niveau 1",
+    "questions": [
+      {
+        "id": "q4-1",
+        "type": "text",
+        "question": "React est une bibliothèque développée par quelle entreprise ?",
+        "acceptedAnswers": ["Facebook", "Meta"]
+      },
+      {
+        "id": "q4-2",
+        "type": "multiple_choice",
+        "question": "Quel hook est utilisé pour gérer l’état local d’un composant fonctionnel ?",
+        "options": ["useEffect", "useState", "useContext", "useRef"],
+        "correct": "useState"
+      },
+      {
+        "id": "q4-3",
+        "type": "true_false",
+        "question": "Les composants React doivent toujours être des classes.",
+        "correct": false
+      },
+      {
+        "id": "q4-4",
+        "type": "multiple_choice",
+        "question": "Quel mot-clé est utilisé pour exporter un composant ?",
+        "options": ["send", "export", "return", "module"],
+        "correct": "export"
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "collectionId": "html-advanced",
+    "title": "Quiz HTML - Niveau 2",
+    "questions": [
+      {
+        "id": "q5-1",
+        "type": "multiple_choice",
+        "question": "Quelle balise est utilisée pour insérer une vidéo ?",
+        "options": ["<video>", "<media>", "<movie>", "<mp4>"],
+        "correct": "<video>"
+      },
+      {
+        "id": "q5-2",
+        "type": "true_false",
+        "question": "La balise <section> est utilisée pour définir une section thématique.",
+        "correct": true
+      },
+      {
+        "id": "q5-3",
+        "type": "text",
+        "question": "Quelle est la balise correcte pour créer un lien hypertexte ?",
+        "acceptedAnswers": ["<a>", "a"]
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "collectionId": "ma3lomat",
+    "title": "khod l7adar",
+    "questions": [
+      {
+        "id": "q6-1",
+        "type": "text",
+        "question": "Qu esl le bon humain",
+        "acceptedAnswers": ["kon 3a9el"]
+      }
+    ]
+  }
+  
+]
