@@ -154,19 +154,6 @@
         "acceptedAnswers": ["<a>", "a"]
       }
     ]
-  },
-  {
-    "id": "q6",
-    "collectionId": "ma3lomat",
-    "title": "khod l7adar",
-    "questions": [
-      {
-        "id": "q6-1",
-        "type": "text",
-        "question": "Qu esl le bon humain",
-        "acceptedAnswers": ["kon 3a9el"]
-      }
-    ]
   }
   
 ]
