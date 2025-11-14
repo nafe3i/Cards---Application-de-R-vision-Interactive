@@ -6,7 +6,7 @@ const quizpar = document.getElementById("tquizs");
 const chaqueq = document.getElementById("affiquiz");
 
 async function liresQuizs() {
-  const res = await fetch("../fichier/data.json");
+  const res = await fetch("../data.json");
   const quizzes = await res.json();
 
   quizpar.innerHTML = "";
